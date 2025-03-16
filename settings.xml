@@ -9,7 +9,7 @@
     <server>
         <id>my.anypoint.credentials</id>
         <username>~~~Client~~~</username>
-        <password>aa446485a6eb475d997760ff671cea3e~?~2Cbe5DE277d44dA2a4043BAaa177A6Ef</password>
+        <password>[client secret]~?~[client secret]</password>
     </server> 
 
   </servers>
