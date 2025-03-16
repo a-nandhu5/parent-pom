@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<!-- replace your org id in between groupId -->
-	<groupId>d8b1a9f5-353b-48f2-913e-6ec9a49830f4</groupId>
+	<groupId>[org id]</groupId>
 	<artifactId>parent-pom</artifactId>
 	<version>1.0.0</version>
 	<packaging>pom</packaging>
